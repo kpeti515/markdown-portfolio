@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* American football
+* Programming
+ * Javascript
+ * Learning new stuffs
+* Anime
+* Music
+ * Lo-Fi
+ * Electro - EDM
+ * Disco
