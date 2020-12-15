@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of Lorand Kallai](https://scontent.fbud5-1.fna.fbcdn.net/v/t1.0-9/10408036_10206587388586406_200173832880150277_n.jpg?_nc_cat=103&ccb=2&_nc_sid=174925&_nc_ohc=GecvpXDcvRoAX8AESgM&_nc_ht=scontent.fbud5-1.fna&oh=649a16d452a2babb2c7bfc602ba2aa3e&oe=60002A8B)
