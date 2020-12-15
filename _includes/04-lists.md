@@ -1,9 +1,10 @@
-* American football
-* Programming
- * Javascript
- * Learning new stuffs
-* Anime
-* Music
+* American football :football:
+* Programming :computer:
+ * Javascript :pencil2:
+ * Learning new stuffs :newspaper:
+* Anime :tv:
+* Music :headphones: 
  * Lo-Fi
  * Electro - EDM
- * Disco
+ * Upbeat music
+ * NCS
